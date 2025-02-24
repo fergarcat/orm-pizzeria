@@ -2,6 +2,10 @@
 
 This project is an example of using an Object-Relational Mapping (ORM) tool to manage a pizzeria's database. It demonstrates how to create, read, update, and delete records in a database using Python.
 
+It's a brief introduction to the subject, made by me as a student in the AI Bootcamp P4 at Factoría F5
+
+https://github.com/Factoria-F5
+
 ## Features
 
 - Add new dishes(Plato)|ingredients(Ingrediente) to the menu
