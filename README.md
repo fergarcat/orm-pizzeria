@@ -36,7 +36,7 @@ https://github.com/Factoria-F5
 
 ## Usage
 
-1. Initialize the database:
+1. Initialize the app:
     ```sh
     python main.py
     ```
